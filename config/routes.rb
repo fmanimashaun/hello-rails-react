@@ -1,9 +1,9 @@
 Rails.application.routes.draw do
   root 'root#index'
 
-  namespace :api, :path => "", :constraints => {:subdomain => "api"}, :defaults => {:format => :json} do
+  namespace :api, :defaults => {:format => :json} do
     namespace :v1 do
-      resources :messages
+      get '/greeting_random', to: 'greetings#random'
     end
   end
 end
