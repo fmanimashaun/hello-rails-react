@@ -29,7 +29,7 @@ This is a simple Rails and React application that displays a random greeting mes
 
 ## 🛠 Built With <a name="built-with"></a>
 
-<details> <summary>Programming Language</summary> <ul> <li>Ruby 3.2.2</li> </ul> </details>
+<details> <summary>Programming Language</summary> <ul> <li>Ruby 3.2.2</li> <li>JavaScript</li> </ul> </details>
 
 <details> <summary>Web Application Framework</summary> <ul> <li>Rails 7.1.3</li> </ul> </details>
 
@@ -50,37 +50,6 @@ This is a simple Rails and React application that displays a random greeting mes
 <details> <summary>Testing</summary> <ul> <li>Debug</li> <li>Capybara</li> <li>Selenium Webdriver</li> </ul> </details>
 
 <details> <summary>Development Tools</summary> <ul> <li>Web Console (web-console gem)</li> <li>Babel (@babel/core, @babel/preset-env, @babel/preset-react, babel-loader in package.json)</li> </ul> </details>
-
-
-<details> <summary>Programming Language</summary> <ul> <li>Ruby 3.2.2</li> </ul> </details>
-
-<details> <summary>Web Application Framework</summary> <ul> <li>Rails 7.1.2</li> </ul> </details>
-
-<details> <summary>Database</summary> <ul> <li>PostgreSQL (pg gem)</li> </ul> </details>
-
-<details> <summary>Web Server</summary> <ul> <li>Puma</li> </ul> </details>
-
-<details> <summary>JavaScript Modules</summary> <ul> <li>ESM Import Maps (importmap-rails gem)</li> </ul> </details>
-
-<details> <summary>UI Styling</summary> <ul> <li>Tailwind CSS (tailwindcss-rails gem)</li> </ul> </details>
-
-<details> <summary>Hotwire</summary> <ul> <li>Turbo (turbo-rails gem)</li> <li>Stimulus (stimulus-rails gem)</li> </ul> </details>
-
-<details> <summary>APIs</summary> <ul> <li>Jbuilder</li> </ul> </details>
-
-<details> <summary>Performance Optimization</summary> <ul> <li>Bootsnap</li> </ul> </details>
-
-<details> <summary>Testing</summary> <ul> <li>Debug</li> <li>Factory Bot (factory_bot_rails gem)</li> <li>RSpec (rspec-rails gem)</li> <li>Capybara</li> <li>Selenium Webdriver</li> </ul> </details>
-
-<details> <summary>Code Quality</summary> <ul> <li>Rubocop</li> </ul> </details>
-
-<details> <summary>Development Tools</summary> <ul> <li>Web Console (web-console gem)</li> </ul> </details>
-
-<details> <summary>Pagination</summary> <ul> <li>Kaminari</li> </ul> </details>
-
-<details> <summary>Authentication</summary> <ul> <li>Devise (devise gem)</li> </ul> </details>
-
-<details> <summary>Authorization</summary> <ul> <li>CanCanCan (cancancan gem)</li> </ul> </details>
 
 <!-- Features -->
 
