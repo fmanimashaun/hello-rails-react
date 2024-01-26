@@ -25,7 +25,7 @@
 
 ## 📖 Hello Rails React <a name="about-project"></a>
 
-This is a simple Rails and React application that displays a random greeting message.
+This is a simple Rails and React application that displays a random greeting message using redux-toolkit and react-router
 
 ## 🛠 Built With <a name="built-with"></a>
 
