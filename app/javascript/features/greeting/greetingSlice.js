@@ -9,7 +9,7 @@ export const fetchMessage = createAsyncThunk(
   }
 );
 
-export const messageSlice = createSlice({
+export const greetingSlice = createSlice({
   name: "message",
   initialState: { message: "", status: "idle" },
   reducers: {},
@@ -25,4 +25,4 @@ export const messageSlice = createSlice({
   },
 });
 
-export default messageSlice.reducer;
+export default greetingSlice.reducer;

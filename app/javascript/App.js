@@ -1,10 +1,10 @@
 import React from "react";
-import { Message } from "./features/message/Message";
+import { Greeting } from "./features/greeting/Greeting";
 
 function App() {
   return (
     <div>
-      <Message />
+      <Greeting />
     </div>
   );
 }
