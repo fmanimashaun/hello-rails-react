@@ -113,6 +113,12 @@ rails db:create
 rails db:migrate
 ```
 
+5. Load sample data into database:
+
+```bash
+rails db:seed
+```
+
 ### Usage
 
 To run the program, you can use a Ruby interpreter. For example, to interact with the code, use the following:
