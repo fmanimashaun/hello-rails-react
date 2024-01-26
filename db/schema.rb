@@ -19,11 +19,4 @@ ActiveRecord::Schema[7.1].define(version: 2024_01_25_141323) do
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
-
-  create_table "messages", force: :cascade do |t|
-    t.string "content"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
-  end
-
 end
